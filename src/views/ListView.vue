@@ -64,8 +64,8 @@ export default {
     data: () => ({
         isShowCard: false,
         isDialog: false,
-        noImage: '/images/no-image.jpeg',
-        noResult: '/images/no-result.jpg'
+        noImage: 'https://github.com/buuibuui/SEVENTEEN-visited-map/blob/main/public/images/no-image.jpeg?raw=true',
+        noResult: 'https://github.com/buuibuui/SEVENTEEN-visited-map/blob/main/public/images/no-result.jpg?raw=true'
     }),
     computed: {
         displayingPlaceList() { return this.$store.state.displayingPlaceList },
