@@ -8,7 +8,7 @@
             extension-height="80"
             color="#92a8d0"
         >
-            <img class="site-logo" src="/images/svtlogo-simple.svg" />
+            <img class="site-logo" src="https://raw.githubusercontent.com/buuibuui/SEVENTEEN-visited-map/e713ce21a6f2d73157d4077937c849532d6fff1a/docs/images/svtlogo-simple.svg" />
 
             <v-spacer></v-spacer>
 
